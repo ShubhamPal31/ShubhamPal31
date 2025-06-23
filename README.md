@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am <a href="https://shubhampal31.netlify.app/" target="_blank">Shubham</a>, a newbie developer from India.<br>Trying to better myself consistently and becoming a better version of my past self.
+I am Shubham</a>, a newbie developer from India.<br>Trying to better myself consistently and becoming a better version of my past self.
 
 ###
 # 📊 GitHub Stats:
